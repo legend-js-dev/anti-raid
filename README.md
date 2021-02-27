@@ -1,5 +1,5 @@
 # anti nuke Bot
-## This bot was made by legend-js & ant, do not remove credits or you will have copyright issues.
+## This bot was made by legend-js, do not remove credits or you will have copyright issues.
 ### Make sure to join The servers below:
 - [Dark Studios (dark codes)](https://discord.gg/devs)
 - [Developers Hub](https://discord.gg/avbmZBrDsk)
