@@ -26,7 +26,7 @@ config ${ops.join("\n config ")}
 .setColor("#FF0000")
 .setThumbnail(message.author.displayAvatarURL({ dynamic: true }))
     .setAuthor(message.author.tag, message.author.displayAvatarURL())
-    .setFooter(message.guild.name + " | made by LΣGΣПD#0001", message.guild.iconURL())
+    .setFooter(message.guild.name + " | made by LΣGΣПD#0001 | A Whole remake of the bot made by Darkboy#9966", message.guild.iconURL())
 		if (!args[0]) return message.channel.send({ embed: bruh });
 		if (check(args[0], ops) === false)
 			return message.channel.send(
@@ -57,7 +57,7 @@ let show = new Discord.MessageEmbed()
 .setTitle("**Anti-Raid | Config**")
 .setAuthor(message.author.tag, message.author.displayAvatarURL({ dynamic: true }))
 .setThumbnail(message.author.displayAvatarURL({ dynamic: true }))
-.setFooter(message.guild.name + " | made by LΣGΣПD#0001", message.guild.iconURL())
+.setFooter(message.guild.name + " | made by LΣGΣПD#0001 A Whole remake of the bot made by Darkboy#9966", message.guild.iconURL())
 .addField("Channel Create Limit", ccl)
 .addField("Channel Delete Limit", cdl)
 .addField("Role Create Limit", rcl)
